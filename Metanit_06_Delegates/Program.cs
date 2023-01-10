@@ -126,6 +126,19 @@ namespace Metanit_06_Delegates
             Console.WriteLine("delegate T-type, take 7 K-type: " + res2);
 
 
+            Console.WriteLine("\n10) delegate INSIDE METHOD\n"); // delegate int Operation(int x, int y);
+            // meth with delegate-parameter
+            void Method5WithDelegate(int a, int b, Operation del)
+            {
+                Console.WriteLine(del(a, b));
+            }
+            Method5WithDelegate(5, 4, Add);
+            Method5WithDelegate(5, 4, Multiply);
+
+
+            Console.WriteLine("\n11) return delegate FROM METHOD\n"); // delegate int Operation(int x, int y);
+
+
 
 
 
