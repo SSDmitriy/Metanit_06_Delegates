@@ -1,5 +1,5 @@
 ﻿// B02 Delegates in use https://metanit.com/sharp/tutorial/3.43.php
-
+/*
 namespace Metanit_06_Delegates
 {
     class B02_useDelegates
@@ -72,3 +72,6 @@ namespace Metanit_06_Delegates
     }
 
 }
+
+
+*/
