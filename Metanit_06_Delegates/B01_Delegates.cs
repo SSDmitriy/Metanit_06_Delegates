@@ -2,9 +2,10 @@
 // delegate - it's a pointer onto method or few methods
 // delegate can't be declare inside a method
 
+/*
 namespace Metanit_06_Delegates
 {
-    internal class Program
+    internal class B01_Delegates
     {
 
         delegate void MyDelegate(); //declare delegate
@@ -178,3 +179,5 @@ namespace Metanit_06_Delegates
         }
     }
 }
+
+*/
