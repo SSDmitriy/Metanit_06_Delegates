@@ -1,7 +1,7 @@
 ﻿// here is delegate inside object (myAcc)
 // delegate contain more than ONE method
 // add and remove methods from delegate
-
+/*
 namespace Metanit_06_Delegates
 {
     // declare delegate
@@ -94,3 +94,5 @@ namespace Metanit_06_Delegates
 
 
 }
+
+*/
