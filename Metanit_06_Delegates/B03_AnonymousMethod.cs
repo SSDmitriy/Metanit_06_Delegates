@@ -1,6 +1,6 @@
 ﻿// anonimous methods https://metanit.com/sharp/tutorial/3.15.php
 
-
+/*
 
 namespace Metanit_06_Delegates
 {
@@ -71,3 +71,5 @@ namespace Metanit_06_Delegates
 
     }
 }
+
+*/
