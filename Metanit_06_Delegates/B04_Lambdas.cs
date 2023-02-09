@@ -1,5 +1,5 @@
 ﻿// B04 Lambdas https://metanit.com/sharp/tutorial/3.16.php
-
+/*
 namespace Metanit_06_Delegates
 {
     internal class B04_Lambdas
@@ -149,3 +149,6 @@ namespace Metanit_06_Delegates
 
     }
 }
+
+
+*/
