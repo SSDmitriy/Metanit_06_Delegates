@@ -1,5 +1,5 @@
 ﻿//B05 Events https://metanit.com/sharp/tutorial/3.14.php
-
+/*
 namespace Metanit_06_Delegates
 {
     class B05_events
@@ -84,3 +84,5 @@ namespace Metanit_06_Delegates
         }
     }
 }
+
+*/
