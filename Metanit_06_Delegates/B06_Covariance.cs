@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+/*
 namespace Metanit_06_Delegates
 {
     internal class B06_Covariance
@@ -133,3 +129,5 @@ namespace Metanit_06_Delegates
        
     }
 }
+
+*/
