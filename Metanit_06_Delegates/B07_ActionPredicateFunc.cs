@@ -1,5 +1,5 @@
 ﻿
-
+/*
 namespace Metanit_06_Delegates
 {
     internal class B07_ActionPredicateFunc
@@ -79,3 +79,5 @@ namespace Metanit_06_Delegates
         }
     }
 }
+
+*/
